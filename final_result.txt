@@ -1,0 +1,207 @@
+--- FOR SEA ---
+
+
+Results for Black Sea.
+
+Morocco, nan
+Other and stateless, nan
+Turkey, nan
+Algeria, nan
+Somalia, nan
+Iran, nan
+Belarus, nan
+Afghanistan, nan
+Syria, nan
+Pakistan, nan
+
+Results for Central Mediterranean.
+
+Tunisia, 172.4% (587 -> 1599)
+Sudan, 689.6% (106 -> 837)
+Eritrea, 82.7% (370 -> 676)
+Nigeria, 244.4% (189 -> 651)
+Côte d'Ivoire, 896.7% (60 -> 598)
+Mali, 422.0% (91 -> 475)
+Guinea, 252.0% (98 -> 345)
+Algeria, NEW (254)
+Senegal, NEW (145)
+Pakistan, NEW (145)
+Somalia dropped from top 10.
+Niger dropped from top 10.
+Iraq dropped from top 10.
+
+Results for Circular Route from Albania to Greece.
+
+
+Results for Eastern Land Borders.
+
+
+Results for Eastern Mediterranean.
+
+Syria, 88.5% (1479 -> 2788)
+Iraq, 25.5% (970 -> 1217)
+Afghanistan, 54.7% (411 -> 636)
+Congo (D.R.), 267.3% (52 -> 191)
+Palestine, 100.0% (88 -> 176)
+Cameroon, 102.4% (84 -> 170)
+Pakistan, NEW (162)
+Somalia, 252.8% (36 -> 127)
+Iran, 52.3% (65 -> 99)
+Eritrea, NEW (80)
+Algeria dropped from top 10.
+Yemen dropped from top 10.
+
+Results for Other.
+
+Philippines, nan
+Pakistan, nan
+Ukraine, nan
+Nigeria, nan
+Somalia, nan
+India, nan
+Russia, nan
+Guinea, nan
+Turkey, nan
+Egypt, nan
+
+Results for Western African.
+
+Morocco, 488.9% (9 -> 53)
+Guinea, nan
+Guinea-Bissau, nan
+Zambia, NEW (0)
+Congo, nan
+Benin, nan
+Comoros, nan
+Mauritania, nan
+Chad, nan
+Central African Republic, NEW (0)
+Unknown dropped from top 10.
+Niger dropped from top 10.
+
+Results for Western Balkans.
+
+Palestine, nan
+Libya, -100.0% (1 -> 0)
+United States, nan
+Lebanon, nan
+Turkey, nan
+Iraq, nan
+Senegal, nan
+Indonesia, nan
+Syria, nan
+Ukraine, nan
+
+Results for Western Mediterranean.
+
+Morocco, 189.1% (329 -> 951)
+Guinea, 458.4% (161 -> 899)
+Mali, 347.3% (186 -> 832)
+Unknown, 0.4% (761 -> 764)
+Côte d'Ivoire, 150.4% (123 -> 308)
+Gambia, 134.6% (130 -> 305)
+Senegal, 436.0% (25 -> 134)
+Mauritania, 277.4% (31 -> 117)
+Cameroon, 260.7% (28 -> 101)
+Algeria, -4.3% (69 -> 66)
+
+--- FOR LAND ---
+
+
+Results for Black Sea.
+
+
+Results for Central Mediterranean.
+
+
+Results for Circular Route from Albania to Greece.
+
+Albania, 54.1% (695 -> 1071)
+Pakistan, NEW (7)
+Kosovo*, 133.3% (3 -> 7)
+China, NEW (6)
+Iran, 400.0% (1 -> 5)
+Serbia, NEW (4)
+Afghanistan, -40.0% (5 -> 3)
+Brazil, NEW (1)
+Turkey, NEW (1)
+Morocco, NEW (1)
+Iraq dropped from top 10.
+Libya dropped from top 10.
+Algeria dropped from top 10.
+Syria dropped from top 10.
+Palestine dropped from top 10.
+India dropped from top 10.
+
+Results for Eastern Land Borders.
+
+Vietnam, 1966.7% (3 -> 62)
+Russia, 162.5% (8 -> 21)
+Afghanistan, NEW (17)
+Ukraine, 150.0% (6 -> 15)
+Turkey, 11.1% (9 -> 10)
+Iraq, -11.1% (9 -> 8)
+Azerbaijan, NEW (4)
+Belarus, NEW (4)
+Armenia, NEW (2)
+Kyrgyzstan, 0.0% (2 -> 2)
+Cuba dropped from top 10.
+Morocco dropped from top 10.
+Kazakhstan dropped from top 10.
+Libya dropped from top 10.
+
+Results for Eastern Mediterranean.
+
+Syria, 209.2% (845 -> 2613)
+Turkey, 129.4% (548 -> 1257)
+Iraq, 194.2% (308 -> 906)
+Afghanistan, 701.3% (79 -> 633)
+Pakistan, 205.6% (143 -> 437)
+Bangladesh, 54.3% (81 -> 125)
+Palestine, 148.3% (29 -> 72)
+Eritrea, 147.8% (23 -> 57)
+Iran, 68.8% (32 -> 54)
+Cameroon, -30.3% (66 -> 46)
+
+Results for Other.
+
+Iraq, nan
+
+Results for Western African.
+
+
+Results for Western Balkans.
+
+Pakistan, 89.1% (156 -> 295)
+Afghanistan, -8.7% (219 -> 200)
+Syria, -40.3% (72 -> 43)
+Turkey, -26.3% (57 -> 42)
+Iran, 56.0% (25 -> 39)
+Kosovo*, -67.8% (87 -> 28)
+Albania, -38.6% (44 -> 27)
+Iraq, 30.0% (20 -> 26)
+Bangladesh, 50.0% (8 -> 12)
+Serbia, NEW (9)
+Libya dropped from top 10.
+
+Results for Western Mediterranean.
+
+Guinea, 5.9% (17 -> 18)
+Mali, NEW (12)
+Côte d'Ivoire, NEW (5)
+Burkina Faso, 200.0% (1 -> 3)
+Senegal, NEW (2)
+Algeria, 100.0% (1 -> 2)
+Sierra Leone, NEW (2)
+Liberia, NEW (2)
+Ghana, NEW (1)
+Togo, NEW (0)
+Guinea-Bissau dropped from top 10.
+Gambia dropped from top 10.
+Nigeria dropped from top 10.
+Central African Republic dropped from top 10.
+Congo dropped from top 10.
+Bangladesh dropped from top 10.
+Comoros dropped from top 10.
+
+
